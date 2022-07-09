@@ -6,9 +6,6 @@ import org.apache.commons.lang3.RandomUtils;
 //        Площадь треугольника вычисляется, как половина произведения этих сторон, умноженная
 //        на синус угла между ними.
 public class Main {
-    public static void main(String[] args) {
-
-    }
 }
     class App{
 
