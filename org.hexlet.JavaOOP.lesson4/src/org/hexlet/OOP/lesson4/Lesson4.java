@@ -16,8 +16,7 @@ public class Lesson4 {
         Point firstPoint = new Point(4,3);
         Point secondPoint = new Point(6,1);
         Point thirdPoint = App.getMidPoint(firstPoint, secondPoint);
-        System.out.println(thirdPoint.getX());
-        System.out.println(thirdPoint.getY());
+
 
     }
 }
