@@ -17,7 +17,7 @@
 //
 //
 
-        package javaOOP.hexlet.lesson2;
+package javaOOP.hexlet.lesson2;
 
 public class AppLesson2 {
 
